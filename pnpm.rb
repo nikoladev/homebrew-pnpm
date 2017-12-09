@@ -3,8 +3,8 @@ require "language/node"
 class Pnpm < Formula
   desc "Fast, disk space efficient package manager for Node"
   homepage "https://pnpm.js.org"
-  url "https://registry.npmjs.org/@pnpm/bundled/-/bundled-1.23.1.tgz"
-  sha256 "6545d6d1229bb91b37eb97c161f558d067c0bac480ba9b0fe695c6f9ced11691"
+  url "https://registry.npmjs.org/@pnpm/bundled/-/bundled-1.23.2.tgz"
+  sha256 "5b3a6fbce64f2e1e45e44ddbf0836226794c9a78d114a35a413ca9bb1ee1c41a"
 
   bottle :unneeded
 
